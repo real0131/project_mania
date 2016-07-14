@@ -15,6 +15,9 @@ a {
   .category{
     visibility: hidden;
   }
+  .summary{
+    visibility: hidden;
+  }
   .main_content{
     width: 95%;
     margin: 0 auto;
