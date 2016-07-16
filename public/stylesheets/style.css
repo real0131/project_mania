@@ -6,7 +6,7 @@ a {
 /*media query for moblie*/
 @media only screen and (max-device-width: 480px) {
   body {
-    font: 21px sans-serif;
+    font: 21pt sans-serif;
   }
   .title{
     visibility: hidden;
@@ -46,7 +46,7 @@ a {
 @media only screen and (min-device-width:481px){
   body {
     background-color: #efefef;
-    font: 14px sans-serif;
+    font: 14pt sans-serif;
   }
   .title{}
   .category{}
